@@ -15,6 +15,7 @@ def func3(num_a, num_b):
     out = num_a + num_b
     # do something with inputs and print something
     print(out)
+    print('hi')
 
 a = 1
 b = 1
